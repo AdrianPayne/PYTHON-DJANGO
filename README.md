@@ -6,7 +6,7 @@ Practices's repository of SARO/SAT | 2016-2017 | URJC
 
 * __User name in GitHub:__ adrianpayne
 
-* __Abstract:__ 
+* __Abstract:
 Different exercises with different levels of difficulty on the construction of server-user services in Python script. Someones with the Django framework.
 HTML and CSS code included.
 
