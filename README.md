@@ -1,11 +1,14 @@
 # PYTHON-DJANGO
 
-Repositorio para las prácticas de SARO/SAT | Curso 2016-2017 | URJC
+Practices's repository of SARO/SAT | 2016-2017 | URJC
 
-* __Nombre y titulación:__ Adrián Sacristán Ibáñez, Ingeniería de Sistemas de Telecomunicaciones y Administración y Dirección de Empresas.
+* __Name and degree:__ Adrián Sacristán Ibáñez, [Telecommunication's engineering] and [Business's administration and management].
 
-* __Nombre de usuario en GitHub:__ adrianpayne
+* __User name in GitHub:__ adrianpayne
 
-* __Resumen:__ 
+* __Abstract:__ 
+Different exercises with different levels of difficulty on the construction of server-user services in Python script. Someones with the Django framework.
+HTML and CSS code included.
+
 Distintos ejercicios con distintos niveles de dificultad sobre la construccion de servicios servidor-usuario en script de Python. Algunos con el framework Django. 
 Codigo HTML y CSS incluido.
